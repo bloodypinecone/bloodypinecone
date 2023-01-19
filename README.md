@@ -1,11 +1,11 @@
 - 👋 Callianna Kaylin
-- 👀 I’m most interested in AI & ML
-- 📖 I’m currently studying C++
-- 🌱 I have experience in Python, JS, Java, HTML/CSS, C, Arduino
-- ✨ Taught Python since middle school
-- ✨ Wrote engineering curriculum for SDUSD in high school
-- ✨ Wrote quantum circuit testing Shors Algorithm for a UCI Quantum Computation course
-- ✨ Currenlty on a team at Microsoft Research curing epilepsy with Python ML (kinda)
+- 👀 interested in AI & ML
+- 📖 currently studying C++
+- 🌱 experience in Python, JS, Java, HTML/CSS, C, Arduino
+- ✨ taught Python since middle school
+- ✨ wrote engineering curriculum for SDUSD in high school
+- ✨ wrote quantum circuit testing Shors Algorithm for a UCI Quantum Computation course
+- ✨ worked on a team at Microsoft Research doing epilepsy research with Python ML (kinda)
 - 📫 How to reach me ... calliannakaylin@gmail.com or @cxli.xnnx on instagram
 
 <!---
